@@ -1,4 +1,4 @@
-## Readme for Lottery Dapp
+## Readme for Lottery Dapp with Foundry
 
 ## Description
 
